@@ -2,10 +2,10 @@
 
 
 # Executive Summary
-This project examines Walmart’s weekly sales data across multiple stores, incorporating economic indicators such as fuel prices, unemployment rates, and the Consumer Price Index (CPI). The dataset spans several years, offering insights into store performance, seasonal trends, and the influence of economic factors on sales.
+  This project examines Walmart’s weekly sales data across multiple stores, incorporating economic indicators such as fuel prices, unemployment rates, and the Consumer Price Index (CPI).   The dataset spans several years, offering insights into store performance, seasonal trends, and the influence of economic factors on sales.
 
 # Report Objectives
-The objective of this report is to analyze Walmart’s historical weekly sales performance across multiple stores, integrating economic indicators such as fuel prices, unemployment rates, and the Consumer Price Index (CPI). This analysis aims to:
+  The objective of this report is to analyze Walmart’s historical weekly sales performance across multiple stores, integrating economic indicators such as fuel prices, unemployment         rates, and the Consumer Price Index (CPI). This analysis aims to:
 - Which Store made the highest Sales: Check all stores and see which one brought in the most money overall.
 - Find the total Weekly Sales for each Store: Add up the sales for each store across all weeks to see how much each store made in total.
 - Find the Average Temperature for each Store: Work out the average temperature for each store’s location to see its usual weather.
@@ -19,22 +19,22 @@ The objective of this report is to analyze Walmart’s historical weekly sales p
 
 - 
 # Data Sources
-The Walmart dataset contains several key data fields, each providing important information for analysis. 
+  The Walmart dataset contains several key data fields, each providing important information for analysis. 
 - Store: The Store column identifies each Walmart location by a unique number.
 - Date: The Date column shows the start date of the sales week, indicating when the data was recorded.
 - Weekly Sales: Weekly Sales ($) represents the total sales made by a store in a specific week, measured in U.S. dollars.
 - Holiday Flag: The Holiday Flag indicates whether the week included a major holiday, with a value of 1 representing a holiday week and 0 for a non-holiday week.
 - Temperature (℉): Temperature (℉) records the average temperature in the store’s area during the sales week, measured in degrees Fahrenheit.
 - Fuel Price ($): Fuel Price (%) provides the average fuel price in the store’s region for that week, expressed in U.S. dollars per gallon.
-- CPI: The CPI (Consumer Price Index) measures the average change over time in the prices of goods and services, serving as an indicator of inflation. A higher CPI reflects higher price levels compared to a base year.
+- CPI: The CPI (Consumer Price Index) measures the average change over time in the prices of goods and services, serving as an indicator of inflation. A higher CPI reflects higher price    levels compared to a base year.
 - Unemployment (%): Unemployment (%) shows the average unemployment rate in the store’s region for the week, indicating the percentage of people without jobs in that area.
 
 
 # Methodology
-- Tools used, 
-Microsoft excel: For Data Cleaning
-SQL: For Data Analysis
-Power BI: For Data Visualization.
+  Tools used, 
+- Microsoft excel: For Data Cleaning
+- SQL: For Data Analysis
+- Power BI: For Data Visualization.
 
 
 
