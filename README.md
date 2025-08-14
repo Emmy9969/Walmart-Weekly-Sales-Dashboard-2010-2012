@@ -173,9 +173,11 @@
 
 
 (5). Week with Highest Fuel Price and Corresponding Sales.
-  *Date* 2010-02-19.	    
-  *Week* 470281.03.	
-  *Fuel Price* 2.47.
+  
+
+| Date          | Week       | Fuel Price       | 
+|---------------|------------|------------------|
+| 2010-02-19    | 47021.03   | 2.47             |
 
 
 
