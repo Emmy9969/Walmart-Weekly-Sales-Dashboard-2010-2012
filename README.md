@@ -116,7 +116,7 @@
  37.	74202740.32
  8.	129951181.13
 
-(3). Average Temperature per Store
+(3). Average Temperature per Store.
 
 23.	48.8051050226172
 29.	54.8971329135495
@@ -165,17 +165,17 @@
 8. 62.5139858939431
 
 
-(4). Total Annual Sales
+(4). Total Annual Sales.
 
 2011.	2448200007.35
 2010.	2288886120.41
 2012.	2000132859.35
 
 
-(5). Week with Highest Fuel Price and Corresponding Sales
-Date: 2010-02-19	    
-Week: 470281.03	
-Fuel Price: 2.47
+(5). Week with Highest Fuel Price and Corresponding Sales.
+Date: 2010-02-19.	    
+Week: 470281.03.	
+Fuel Price: 2.47.
 
 
 
