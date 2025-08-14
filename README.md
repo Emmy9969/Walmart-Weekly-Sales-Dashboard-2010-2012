@@ -16,8 +16,9 @@ The objective of this report is to analyze Walmart’s historical weekly sales p
 - Stores with an Average Unemployment rate above 8%: List the stores where the average unemployment rate in their area is more than 8%.
 - What are the top 3 Stores that made the most Sales in a Week: Find the top 3 store-week combinations with the biggest sales numbers.
 - Find the Average Fuel Price for each Year: Work out the average fuel price for each year to see how it changes over time.
-- 
 
+@ 
+*
 # Data Sources
 The Walmart dataset contains several key data fields, each providing important information for analysis. 
 - Store: The Store column identifies each Walmart location by a unique number.
