@@ -178,7 +178,7 @@
 (5). Week with Highest Fuel Price and Corresponding Sales.
   
 
-| Date          | Week       | Fuel Price ($)      | 
+| Date          | Week       | Fuel Price ($)   | 
 |----|----------|------------|------------------|
 | 2010-02-19    | 47021.03   | 2.47             |
 
@@ -187,12 +187,6 @@
 
 
 (6). Top 5 Highest Weekly Sales Across All Stores
-
-|14	2010-12-24	3818686.45
-20	2010-12-24	3766687.43
-10	2010-12-24	3749057.69
-4	2011-12-23	3676388.98
-13	2010-12-24	3595903.20
 
 
 | Store | Date       | Weekly Sales ($) | 
