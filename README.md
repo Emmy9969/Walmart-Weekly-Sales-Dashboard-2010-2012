@@ -40,7 +40,18 @@
 - SQL: For Data Analysis.
 - Power BI: For Data Visualization.
 
+# Reasearch Questions
 
+- Which store made the highest sales?
+- Find the total weekly sales for each store?
+- Find the average temperature for each store?
+- What was the total sales made each year?
+- Which week was fuel price high and how much was made?
+- Show the top 5 highest weekly sales across all stores?
+- How much was made in the week with the highest inflation %?
+- Stores with an average unemployment rate above 8%?
+- What are the top 3 Stores that made the most Sales in a Week?
+- Find the average fuel price for each year?
 
 
 
