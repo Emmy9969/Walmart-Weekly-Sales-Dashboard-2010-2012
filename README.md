@@ -16,3 +16,32 @@ The objective of this report is to analyze Walmart’s historical weekly sales p
 - What are the top 3 Stores that made the most Sales in a Week: Find the top 3 store-week combinations with the biggest sales numbers.
 - Find the Average Fuel Price for each Year: Work out the average fuel price for each year to see how it changes over time.
 
+# Data Sources
+The Walmart dataset contains several key data fields, each providing important information for analysis. 
+- Store: The Store column identifies each Walmart location by a unique number.
+- Date: The Date column shows the start date of the sales week, indicating when the data was recorded.
+- Weekly Sales: Weekly Sales ($) represents the total sales made by a store in a specific week, measured in U.S. dollars.
+- Holiday Flag: The Holiday Flag indicates whether the week included a major holiday, with a value of 1 representing a holiday week and 0 for a non-holiday week.
+- Temperature (℉): Temperature (℉) records the average temperature in the store’s area during the sales week, measured in degrees Fahrenheit.
+- Fuel Price ($): Fuel Price ($) provides the average fuel price in the store’s region for that week, expressed in U.S. dollars per gallon.
+- CPI: The CPI (Consumer Price Index) measures the average change over time in the prices of goods and services, serving as an indicator of inflation. A higher CPI reflects higher price levels compared to a base year.
+- Unemployment (%): Unemployment (%) shows the average unemployment rate in the store’s region for the week, indicating the percentage of people without jobs in that area.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Store column identifies each Walmart location by a unique number. 
