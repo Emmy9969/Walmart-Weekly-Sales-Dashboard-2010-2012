@@ -165,7 +165,14 @@
 8. 62.5139858939431
 
 
+(4). Total Annual Sales
+
+2011	2448200007.35
+2010	2288886120.41
+2012	2000132859.35
 
 
-
+(5). Week with Highest Fuel Price and Corresponding Sales
+Date         Week      Fuel Price
+2010-02-19	470281.03	    2.47
 
