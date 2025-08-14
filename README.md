@@ -6,7 +6,7 @@
 
 # Report Objectives
   The objective of this report is to analyze Walmart’s historical weekly sales performance across multiple stores, integrating economic indicators such as fuel prices, unemployment         rates, and the Consumer Price Index (CPI). This analysis aims to:
-- Which Store made the highest Sales: Check all stores and see which one brought in the most money overall.
+- Find which Store made the highest Sales: Check all stores and see which one brought in the most money overall.
 - Find the total Weekly Sales for each Store: Add up the sales for each store across all weeks to see how much each store made in total.
 - Find the Average Temperature for each Store: Work out the average temperature for each store’s location to see its usual weather.
 - What was the Total Sales made each Year: Add up all sales in each year to see how much Walmart made per year.
