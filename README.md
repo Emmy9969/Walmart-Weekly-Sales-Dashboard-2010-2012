@@ -69,10 +69,11 @@
 # Results/Findidngs
 (1) Store 14 recorded the highest single-week sales, achieving $3,818,686.45 in revenue with a CPI of 82.5400009155273 during that week.
 
-(2). Total Weekly Sales for Each Store
-  23.	198750617.85 
-  29.	77141554.31
-  9.	77789218.99
+(2). Total Weekly Sales for Each Store.
+
+ 23.	198750617.85 
+ 29.	77141554.31
+ 9.	77789218.99
  15.	89133683.92
  3.	57586735.07
  32.	166819246.16
