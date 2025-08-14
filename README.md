@@ -199,6 +199,10 @@
 
 
 
+(7). Sales During the Week with Highest Inflation (%)
+| Date   | Weekly Sales  |      CPI            |
+|-------      |----------|------------------- -|
+|2012-10-26   | 549731.49| 127.230003356934    |
 
 
 
