@@ -57,9 +57,9 @@
 
 # Data Analysis
 -- A Query to Which Store made the highest Sales.
-   SELECT TOP 1 Store, Date, Weekly_Sales, CPI 
-   FROM Walmart
-   ORDER BY Weekly_Sales DESC;
+- SELECT TOP 1 Store, Date, Weekly_Sales, CPI 
+- FROM Walmart
+- ORDER BY Weekly_Sales DESC;
    
 
 
