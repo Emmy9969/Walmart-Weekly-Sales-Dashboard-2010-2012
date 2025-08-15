@@ -119,7 +119,7 @@ GROUP BY YEAR(Date)
 ORDER BY Year;
 
 
-# Results/Findidngs
+# Results
 (1) Store 14 recorded the highest single-week sales, achieving $3,818,686.45 in revenue with a CPI of 82.5400009155273 during that week.
 
 (2). Total Weekly Sales for Each Store ($).
@@ -289,6 +289,30 @@ ORDER BY Year;
 | 2010 | 2.82                |
 | 2011 | 3.56                |
 | 2012 | 3.71                |
+
+# Findidngs
+- The store with the highest sales is Store 14, achieving $3,818,686.45 in weekly sales on December 24, 2010, with a CPI of 82.54.
+- The total weekly sales vary greatly across Walmart stores. Store 4 recorded the highest total weekly sales of $299,543,953.38, followed   closely by Store 13 with $286,517,703.80 and Store 10 with $271,617,713.89. The store with the lowest total weekly sales in the dataset   is Store 42, with $795,657.90.
+- From the dataset, Store 33 experienced the highest average temperature at 76.73℉, followed by Store 11 at 72.48℉ and Stores 10 & 42     both at 72.24℉. The coolest average was recorded by Store 7, with 40.01℉.
+- From the dataset, the year 2011 recorded the highest total sales at 6,737,218,987.11.
+- On February 19, 2010, the fuel price was at a relatively low $2.47 per gallon, during which weekly sales amounted to $47,021.03.
+- The highest weekly sales were recorded during the 2010 and 2011 Christmas weeks, with Store 14 leading at $3,818,686.45 on 2010-12-24.    This suggests that holiday periods—especially Christmas—drive peak sales across multiple stores.
+- On October 26, 2012, the CPI reached its highest value of 127.23, during which the store generated $549,731.49 in weekly sales. This      indicates that even with higher inflation levels, sales activity still persisted at a significant scale.
+- Several stores had an average unemployment rate above 8%. The highest was recorded by Store 12, Store 38, and Store 28, each with         13.12%, indicating they operated in regions with significantly higher unemployment levels compared to others.
+- The top three weekly sales across all stores were achieved by Store 14 ($3,818,686.45), Store 20 ($3,766,687.43), and Store 10            ($3,749,057.69). Fuel prices during these peak weeks ranged from $3.14 to $3.24.
+- Average fuel prices steadily increased over the three years, rising from $2.82 in 2010 to $3.56 in 2011, and reaching $3.71 in 2012.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
