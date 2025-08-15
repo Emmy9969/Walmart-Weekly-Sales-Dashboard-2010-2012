@@ -315,7 +315,17 @@ ORDER BY Year;
 - Stores 14, 20, and 10 are top weekly performers. Walmart should focus competitive intelligence on these locations to understand           pricing, customer service, and promotional tactics that drive their performance.
 - Since fuel prices rose from $2.82 in 2010 to $3.71 in 2012, Walmart should monitor transportation costs and their impact on product       pricing. Consider partnerships with fuel providers for customer discounts to maintain foot traffic.
 
-
+# Possible Limitations
+- Incomplete data coverage: The dataset only covers certain years (2010–2012), so trends over a longer period cannot be fully assessed.
+- Lack of external economic context: While CPI, fuel prices, and unemployment rates are included, other key factors like population         changes, competitor pricing, or consumer confidence are missing.
+- Limited granularity: Weekly sales figures do not break down into product categories, making it harder to pinpoint what specifically       drives high sales in certain weeks or stores.
+- Potential inflation effects on sales: Sales are in nominal dollars without adjusting for inflation, so comparisons between years may      overstate actual growth.
+- Missing location-specific details: The dataset does not include geographic or demographic information for each store, which limits        understanding of regional differences.
+- Incomplete customer behavior insights: No customer footfall data, transaction counts, or basket size information, which makes it hard     to link sales changes to customer volume versus price effects.
+- Unbalanced store representation: Some stores have significantly higher or lower total sales, but without data on store size or            capacity, comparisons may be skewed.
+- CPI and unemployment data scope: CPI and unemployment appear store-specific, but methodology for linking them to each store is unclear,   potentially affecting accuracy.
+- Possible seasonality bias: The top sales weeks mostly occur around the holiday season, but without multiple years of weekly breakdowns,   it’s hard to separate seasonal trends from anomalies.
+- No profit or cost data: Sales alone don’t show profitability; a store could have high sales but also high operating costs.
 
 
 
