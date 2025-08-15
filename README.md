@@ -329,6 +329,21 @@ ORDER BY Year;
 
 
 
+# Conclusion
+
+  The analysis of Walmart’s sales data from 2010 to 2012 reveals that certain stores, notably Store 4, Store 13, and Store 10,            consistently achieved exceptional weekly sales, with peak performance often coinciding with the holiday season. Seasonal patterns,        along with external factors such as CPI, unemployment, and fuel prices, appear to influence sales performance, though not always in a     linear manner.
+
+While overall sales peaked in 2011, growth patterns varied across stores, suggesting that regional economic conditions, local demand,     and store-specific strategies played significant roles. Fuel prices and inflation showed modest correlation with sales fluctuations,      while high unemployment rates did not necessarily suppress store revenue in all cases.
+
+Despite these insights, the dataset’s limited time frame, lack of product-level granularity, and absence of profit metrics constrain      the depth of interpretation. Nonetheless, the results provide valuable guidance for resource allocation, promotional timing, and          economic factor monitoring, which can enhance strategic planning and operational efficiency in retail management.
+
+
+
+
+
+
+
+
 
 
 
