@@ -34,9 +34,9 @@
   Tools used, 
 - Microsoft excel: For Data Cleaning
   The Store Column, Weekly Sales, Fuel Price, Holiday Flag, Temperature, Unemployment were all intact.
-  For the Date column, the format was standardized by selecting the Date column, navigating to the ribbon, clicking on “Text to Columns,” choosing “Delimited,” clicking next, unchecking    all delimiters, clicking next again, selecting “Date” as the column data format, and finally choosing “Short Date” as the display format.
+  For the Date column, the format was standardized by selecting the Date column, navigating to the ribbon, clicking on “Text to Columns,”   choosing “Delimited,” clicking next, unchecking    all delimiters, clicking next again, selecting “Date” as the column data format, and   finally choosing “Short Date” as the display format.
 
-  The CPI (Consumer Price Index) column, which measures price level changes over time, was converted to a percentage for easier interpretation. This was done by subtracting the known       base value of 100 from the CPI, making it clearer to see how much prices have changed relative to the base year.
+  The CPI (Consumer Price Index) column, which measures price level changes over time, was converted to a percentage for easier             interpretation. This was done by subtracting the known       base value of 100 from the CPI, making it clearer to see how much prices     have changed relative to the base year.
 - SQL: For Data Analysis.
 - Power BI: For Data Visualization.
 
@@ -291,7 +291,7 @@ ORDER BY Year;
 | 2012 | 3.71                |
 
 # Findidngs
-- The store with the highest sales is Store 14, achieving $3,818,686.45 in weekly sales on December 24, 2010, with a CPI of 82.54.
+- The Store with the highest sales is Store 14, achieving $3,818,686.45 in weekly sales on December 24, 2010, with a CPI of 82.54.
 - The total weekly sales vary greatly across Walmart stores. Store 4 recorded the highest total weekly sales of $299,543,953.38, followed   closely by Store 13 with $286,517,703.80 and Store 10 with $271,617,713.89. The store with the lowest total weekly sales in the dataset   is Store 42, with $795,657.90.
 - From the dataset, Store 33 experienced the highest average temperature at 76.73℉, followed by Store 11 at 72.48℉ and Stores 10 & 42     both at 72.24℉. The coolest average was recorded by Store 7, with 40.01℉.
 - From the dataset, the year 2011 recorded the highest total sales at 6,737,218,987.11.
@@ -302,7 +302,18 @@ ORDER BY Year;
 - The top three weekly sales across all stores were achieved by Store 14 ($3,818,686.45), Store 20 ($3,766,687.43), and Store 10            ($3,749,057.69). Fuel prices during these peak weeks ranged from $3.14 to $3.24.
 - Average fuel prices steadily increased over the three years, rising from $2.82 in 2010 to $3.56 in 2011, and reaching $3.71 in 2012.
 
-
+# Recommendations
+- Since Store 14 recorded the highest weekly sales ($3,818,686.45), Walmart should analyze its operational strategies, customer             demographics, and product mix to replicate this success across other stores.
+- Stores like Store 4 ($299,543,953.38) and Store 13 ($286,517,703.80) are top performers annually. Walmart should prioritize inventory,    staffing, and promotional efforts in these high-performing locations to maximize returns.
+- Stores in warmer regions (e.g., Store 33 at 76.73°F) may benefit from stocking more seasonal items like summer apparel, beverages, and    outdoor equipment, while colder-region stores could focus on winter gear and heating-related products.
+- Sales peaked in 2011 ($2.45B). Walmart should revisit marketing and sales strategies from that year to identify successful campaigns or   economic conditions that could be re-applied today.
+- When fuel prices are low ($2.47 on 2010-02-19), sales were relatively small ($47,021.03). Walmart should explore how fuel costs impact    customer spending, potentially offering fuel-linked promotions to stimulate demand.
+- When fuel prices are low ($2.47 on 2010-02-19), sales were relatively small ($47,021.03). Walmart should explore how fuel costs impact    customer spending, potentially offering fuel-linked promotions to stimulate demand.
+- The top-selling weeks tend to occur around December (holiday period). Walmart should expand holiday marketing, stock popular items        early, and ensure staffing is prepared for high traffic.
+- On 2012-10-26, CPI was at 127.23, and sales reached $549,731.49. During high inflation, Walmart should emphasize value pricing, promote   discounts, and increase marketing for essential goods.
+- High-unemployment areas (e.g., Store 12 at 13.12%) may require more budget-friendly product ranges, bulk deals, and targeted community    outreach to maintain customer loyalty.
+- Stores 14, 20, and 10 are top weekly performers. Walmart should focus competitive intelligence on these locations to understand           pricing, customer service, and promotional tactics that drive their performance.
+- Since fuel prices rose from $2.82 in 2010 to $3.71 in 2012, Walmart should monitor transportation costs and their impact on product       pricing. Consider partnerships with fuel providers for customer discounts to maintain foot traffic.
 
 
 
