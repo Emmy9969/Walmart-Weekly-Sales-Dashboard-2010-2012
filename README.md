@@ -1,4 +1,3 @@
-# Walmart-Weekly-Sales-Analysis-2010-2012
 <h1 id="WalmartWeeklySalesAnalysis20102012">Walmart Weekly Sales Analysis 2010 2012</h1>
 
 # Executive Summary
