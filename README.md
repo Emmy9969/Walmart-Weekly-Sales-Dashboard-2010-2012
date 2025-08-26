@@ -71,6 +71,8 @@ FROM [Walmart]
 GROUP BY Store
 
 
+ ![Weekly Sales](./Dashboard-2.PNG)
+ 
 - A Query to Find the average temperature for each store.
   
 SELECT Store, AVG("Temperature") AS Avg_Temperature
