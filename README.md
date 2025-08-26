@@ -97,7 +97,7 @@ SELECT TOP 1 Date, Weekly_Sales, Fuel_Price
 FROM [Walmart]
 ORDER BY Fuel_Price
 
- ![high](./Dashboard-5.PNG)
+ ![Fuel](./Dashboard-5.PNG)
 - A Query to Show the top 5 highest weekly sales across all stores.
   
 SELECT TOP 5 Store, Date, Weekly_Sales 
