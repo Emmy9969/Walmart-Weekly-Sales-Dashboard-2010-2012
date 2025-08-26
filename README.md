@@ -136,7 +136,7 @@ FROM [Walmart]
 GROUP BY YEAR(Date)
 ORDER BY Year;
 
-
+![Three](./Dashboard-10.PNG)
 
 # Findidngs
 - The Store with the highest sales is Store 14, achieving $3,818,686.45 in weekly sales on December 24, 2010, with a CPI of 82.54.
