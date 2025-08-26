@@ -104,6 +104,7 @@ SELECT TOP 5 Store, Date, Weekly_Sales
 FROM [Walmart]
 ORDER BY Weekly_Sales DESC
 
+![SIX w](./Dashboard-6.PNG)
 
 - A Query to show How much was made in the week with the highest inflation in %.
 
