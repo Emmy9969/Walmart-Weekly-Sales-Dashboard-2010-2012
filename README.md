@@ -128,7 +128,7 @@ SELECT TOP 3 Store, Weekly_Sales, Fuel_Price
 FROM [Walmart]
 ORDER BY  Weekly_Sales DESC
    
-
+![Top](./Dashboard-9.PNG)
 - A Query to Find the average fuel price for each Year.
   
 SELECT YEAR(Date) AS Year, AVG("Fuel_Price") AS Avg_Fuel_Price
