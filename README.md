@@ -89,6 +89,7 @@ GROUP BY YEAR(date)
 ORDER BY Total_Sales DESC
 
 
+ ![year](./Dashboard-4.PNG)
 - A Query to Which week was fuel price high and how much was made.
   
 SELECT TOP 1 Date, Weekly_Sales, Fuel_Price 
