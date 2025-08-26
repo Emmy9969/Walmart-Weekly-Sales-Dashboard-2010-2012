@@ -112,7 +112,7 @@ FROM [Walmart]
 ORDER BY CPI DESC
 
 
-
+![Seven](./Dashboard-7.PNG)
 
 - A Query to find the Stores with an average unemployment rate above 8%.
   
