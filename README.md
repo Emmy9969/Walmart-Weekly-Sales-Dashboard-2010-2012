@@ -54,7 +54,7 @@
 
 
 
-# Data Analysis/Results 
+# Data Analysis / Results 
 
 - A Query to Which Store made the highest Sales.
   
