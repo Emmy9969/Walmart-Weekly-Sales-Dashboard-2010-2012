@@ -55,63 +55,73 @@
 
 
 # Data Analysis
--- A Query to Which Store made the highest Sales.
+- A Query to Which Store made the highest Sales.
+  
 SELECT TOP 1 Store, Date, Weekly_Sales, CPI
 FROM [Walmart]
 ORDER BY Weekly_Sales DESC;
 
 
--- A Query to find the total weekly sales for each store
+- A Query to find the total weekly sales for each store.
+  
 SELECT Store, SUM("Weekly_Sales") AS Total_Sales
 FROM [Walmart]
 GROUP BY Store
 
 
--- A Query to Find the average temperature for each store
+- A Query to Find the average temperature for each store.
+  
 SELECT Store, AVG("Temperature") AS Avg_Temperature
 FROM [Walmart]
 GROUP BY Store;
 
 
--- A Query to find Total Sales made each Year
+- A Query to find Total Sales made each Year.
+
 SELECT  YEAR(date) as YEAR, SUM("Weekly_Sales") AS Total_Sales
 FROM [Walmart]
 GROUP BY YEAR(date)
 ORDER BY Total_Sales DESC
 
 
--- A Query to Which week was fuel price high and how much was made
+- A Query to Which week was fuel price high and how much was made.
+  
 SELECT TOP 1 Date, Weekly_Sales, Fuel_Price 
 FROM [Walmart]
 ORDER BY Fuel_Price
 
 
--- A Query to Show the top 5 highest weekly sales across all stores
+- A Query to Show the top 5 highest weekly sales across all stores.
+  
 SELECT TOP 5 Store, Date, Weekly_Sales 
 FROM [Walmart]
 ORDER BY Weekly_Sales DESC
 
 
--- A Query to show How much was made in the week with the highest inflation in %
+- A Query to show How much was made in the week with the highest inflation in %.
+
 SELECT TOP 1 date, Weekly_Sales, CPI 
 FROM [Walmart]
 ORDER BY CPI DESC
 
 
--- A Query to find the Stores with an average unemployment rate above 8%
+- A Query to find the Stores with an average unemployment rate above 8%.
+  
 SELECT Store, AVG("Unemployment") AS Avg_Unemployment
 FROM [Walmart]
 GROUP BY Store
 HAVING AVG("Unemployment") > 8;
 
 
--- A Query to find the top 3 Stores that made the most Sales in a Week
+- A Query to find the top 3 Stores that made the most Sales in a Week.
+  
 SELECT TOP 3 Store, Weekly_Sales, Fuel_Price 
 FROM [Walmart]
 ORDER BY  Weekly_Sales DESC
    
 
--- A Query to Find the average fuel price for each Year
+- A Query to Find the average fuel price for each Year.
+  
 SELECT YEAR(Date) AS Year, AVG("Fuel_Price") AS Avg_Fuel_Price
 FROM [Walmart]
 GROUP BY YEAR(Date)
