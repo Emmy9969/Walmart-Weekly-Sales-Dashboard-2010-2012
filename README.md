@@ -104,6 +104,8 @@ SELECT TOP 1 date, Weekly_Sales, CPI
 FROM [Walmart]
 ORDER BY CPI DESC
 
+![Highest Inflation](./Dashboard-1.PNG)
+
 
 - A Query to find the Stores with an average unemployment rate above 8%.
   
