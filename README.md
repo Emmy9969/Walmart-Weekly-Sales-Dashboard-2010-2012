@@ -120,7 +120,7 @@ SELECT Store, AVG("Unemployment") AS Avg_Unemployment
 FROM [Walmart]
 GROUP BY Store
 HAVING AVG("Unemployment") > 8;
-
+![8](./Dashboard-8.PNG)
 
 - A Query to find the top 3 Stores that made the most Sales in a Week.
   
