@@ -80,6 +80,7 @@ FROM [Walmart]
 GROUP BY Store;
 
 
+ ![Avg temp](./Dashboard-3.PNG)
 - A Query to find Total Sales made each Year.
 
 SELECT  YEAR(date) as YEAR, SUM("Weekly_Sales") AS Total_Sales
