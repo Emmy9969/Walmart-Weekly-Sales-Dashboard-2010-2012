@@ -61,7 +61,7 @@ SELECT TOP 1 Store, Date, Weekly_Sales, CPI
 FROM [Walmart]
 ORDER BY Weekly_Sales DESC;
 
-![Highest Sales](./Dashboard-1.PNG)
+
 
 - A Query to find the total weekly sales for each store.
   
