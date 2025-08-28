@@ -181,11 +181,7 @@ ORDER BY Year;
 (4). Total Annual Sales.
 
 
-| Year  | Total Sales ($)| 
-|-------|------------|
-| 2011  | 2448200007.35 |
-| 2010  | 2288886120.41 |
-| 2012  | 2000132859.35 |
+![annual](./Dashboard-3.PNG)
 
 
 (5). Week with Highest Fuel Price and Corresponding Sales.
