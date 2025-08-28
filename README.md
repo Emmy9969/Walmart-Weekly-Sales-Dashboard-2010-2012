@@ -254,11 +254,7 @@ ORDER BY Year;
 
 (10). Average Fuel Price per Year
 
-| Year | Avg. Fuel Price ($) |
-|:-----|--------------------:|
-| 2010 | 2.82                |
-| 2011 | 3.56                |
-| 2012 | 3.71                |
+![each](./Dashboard-2.PNG)
 
 
 # Findidngs
